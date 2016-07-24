@@ -24,7 +24,7 @@ layout: compress
                 {{ content }}
                 <div class="post-list">
                     {% for post in site.posts %}
-                        {% if post.type == page.type %}
+                        {% if post.parent == page.type %}
                     <ul>
                         <li class="wow fadeInLeft" data-wow-duration="1.5s">
                             <a class="zoombtn" href="{{ post.url }}">{{ post.title }}</a>
