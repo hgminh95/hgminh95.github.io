@@ -8,3 +8,11 @@ tag:
 - cl
 comments: true
 ---
+
+## Tài liệu tham khảo
+
+http://lequydonhadong.edu.vn/Images/Library/TTQUAYLUI.pdf
+
+https://commons.wikimedia.org/wiki/File:Sudoku_solved_by_bactracking.gif
+
+## Code
