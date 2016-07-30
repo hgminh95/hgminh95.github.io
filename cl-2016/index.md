@@ -4,7 +4,7 @@ title: CL - 2016
 excerpt: "CL - 2016"
 comments: false
 type: "cl-2016"
-feature: http://i.imgur.com/Ds6S7lJ.png
+feature: https://i.imgur.com/Ds6S7lJ.png
 ---
 
 **Watch out!** This page is under construction.
