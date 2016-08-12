@@ -32,6 +32,10 @@ feature: https://i.imgur.com/Ds6S7lJ.png
 | | PS | | | |
 | [2016-08-09](https://drive.google.com/open?id=0B7AyGNQu098WTHN6T1J5V0t4bGc){:target="_blank"}| Queue | | | |
 | | Circle | | | |
+|----
+| | Collinear | | | |
+| [2016-08-12](https://drive.google.com/open?id=0B7AyGNQu098WQldQTUpRdVJGcUE){:target="_blank"}| The Longest | | | |
+| | Fibonacci | | | |
 {: rules="groups"}
 
 
