@@ -30,12 +30,16 @@ feature: https://i.imgur.com/Ds6S7lJ.png
 | | Eight Queens | <span class="fa fa-check"/> | <span class="fa fa-check"/> | <span class="fa fa-check"/> |
 |----
 | | PS | | | |
-| [2016-08-09](https://drive.google.com/open?id=0B7AyGNQu098WTHN6T1J5V0t4bGc){:target="_blank"}| Queue | | | |
+| [2016-08-09](https://drive.google.com/open?id=0B7AyGNQu098WTHN6T1J5V0t4bGc){:target="_blank"}| Queue | | <span class="fa fa-check"/> | |
 | | Circle | | | |
 |----
-| | Collinear | | | |
-| [2016-08-12](https://drive.google.com/open?id=0B7AyGNQu098WQldQTUpRdVJGcUE){:target="_blank"}| The Longest | | | |
+| | Collinear | | <span class="fa fa-check"/> | <span class="fa fa-check"/> |
+| [2016-08-12](https://drive.google.com/open?id=0B7AyGNQu098WQldQTUpRdVJGcUE){:target="_blank"}| The Longest | <span class="fa fa-check"/> | | <span class="fa fa-check"/> |
 | | Fibonacci | | | |
+|----
+| | Index | | <span class="fa fa-check"/> | <span class="fa fa-check"/> |
+| [2016-08-19](https://drive.google.com/open?id=0B7AyGNQu098WSklGdy1RU184WUU) | Virtual Node | <span class="fa fa-check"/> | <span class="fa fa-check"/> | <span class="fa fa-check"/> |
+| | Same Area | <span class="fa fa-check"/> | <span class="fa fa-check"/> | |
 {: rules="groups"}
 
 
