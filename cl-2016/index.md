@@ -40,6 +40,14 @@ feature: https://i.imgur.com/Ds6S7lJ.png
 | | Index | | <span class="fa fa-check"/> | <span class="fa fa-check"/> |
 | [2016-08-19](https://drive.google.com/open?id=0B7AyGNQu098WSklGdy1RU184WUU) | Virtual Node | <span class="fa fa-check"/> | <span class="fa fa-check"/> | <span class="fa fa-check"/> |
 | | Same Area | <span class="fa fa-check"/> | <span class="fa fa-check"/> | |
+|----
+| | Candy | <span class="fa fa-check"/> | | |
+| [2016-08-23](https://drive.google.com/open?id=0B7AyGNQu098WUF9KanBJZ3RXWlU) | Just another GCD | | |
+| | The Largest | <span class="fa fa-check"/> | | |
+|----
+| | Sieve of Eratosthenes | <span class="fa fa-check"/> | <span class="fa fa-check"/> | <span class="fa fa-check"/> |
+| [2016-08-26](https://drive.google.com/open?id=0B7AyGNQu098WNnIwUU52NUxoYW8) | Clustering | <span class="fa fa-check"/> | | |
+| | Laser Phones | <span class="fa fa-check"/> | | |
 {: rules="groups"}
 
 
